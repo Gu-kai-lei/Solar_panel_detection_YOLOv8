@@ -1,6 +1,6 @@
 # Solar Panel Detection with YOLOv8 and MMYOLO
 
-作者/维护者：顾凯磊
+作者/维护者：Kaleb
 
 本项目是一个面向无人机航拍场景的太阳能板目标检测实习项目。项目基于 MMYOLO / YOLOv8 完成数据集转换、模型训练与微调、验证测试、badcase 分析，以及 DJI AI 算力开放平台量化交付包整理流程。
 
