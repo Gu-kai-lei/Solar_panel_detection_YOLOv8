@@ -1,0 +1,12 @@
+torch==2.0.0
+torchvision==0.15.0
+mmengine==0.10.7
+mmdet==3.3.0
+mmcv==2.0.0
+mmyolo==0.6.0
+numpy
+Pillow
+opencv-python
+pycocotools
+tqdm
+PyYAML

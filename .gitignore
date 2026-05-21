@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Training outputs
+work_dirs/
+runs/
+outputs/
+logs/
+
+# Model weights and exports
+*.pth
+*.pt
+*.onnx
+*.engine
+*.bin
+*.param
+checkpoints/
+weights/
+export_package/
+calibration_images/
+
+# Datasets and private assets
+data/
+dataset/
+datasets/
+images/
+labels/
+annotations/
+*.zip
+*.rar
+*.7z
+
+# Local reports/artifacts
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
